@@ -16,3 +16,20 @@
 | # | Project                                       | Demo     |
 |---|-----------------------------------------------|----------|
 | 1 | [Expanding Cards](https://github.com/Chengyunlai/Nuxt-50-Projects-in-50-Days/tree/master/pages/expanding-cards) | [Live]() |
+
+## 使用
+Step 1. 拉代码
+```git
+git clone https://github.com/Chengyunlai/Nuxt-50-Projects-in-50-Days
+```
+
+Step 2. 安装依赖
+
+```cmd
+yarn
+```
+
+Step 3. 运行项目
+```cmd
+yarn dev
+```
