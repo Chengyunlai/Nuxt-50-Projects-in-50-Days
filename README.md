@@ -15,4 +15,4 @@
 ## 目录
 | # | Project                                       | Demo     |
 |---|-----------------------------------------------|----------|
-| 1 | [Expanding Cards]() | [Live]() |
+| 1 | [Expanding Cards](https://github.com/Chengyunlai/Nuxt-50-Projects-in-50-Days/tree/master/pages/expanding-cards) | [Live]() |
