@@ -21,10 +21,10 @@
 当然，笔者的水准还有限，虽然有一定的 React 能力，但还是对 Vue 更熟悉一点，所以这个项目更适合使用 Vue 的用户。
 
 ## 目录
-| # | Project                                       | Demo     |
-|---|-----------------------------------------------|----------|
-| 1 | [Expanding Cards](https://github.com/Chengyunlai/Nuxt-50-Projects-in-50-Days/tree/master/pages/expanding-cards) | [Live]() |
-
+| #  | Project                                       | Demo     |
+|----|-----------------------------------------------|----------|
+| 1  | [Expanding Cards](https://github.com/Chengyunlai/Nuxt-50-Projects-in-50-Days/tree/master/pages/expanding-cards) | [Live]() |
+| 2  | [Progress Steps](https://github.com/Chengyunlai/Nuxt-50-Projects-in-50-Days/tree/master/pages/progress-steps) | [Live]() |
 ## 使用
 Step 1. 拉代码
 ```git
