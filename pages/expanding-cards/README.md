@@ -22,7 +22,7 @@ const panels = document.querySelectorAll('.panel');
 panels.forEach(panel => {
     // 给每一个 Node 对象添加点击事件
     panel.addEventListener('click',()=>{
-        // 先移除当前节点的 active 类
+        // 先移除所有节点的 active 类
         removeActiveClasses();
         // 再给当前点击的 Node 添加 active 类
         panel.classList.add('active');
